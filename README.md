@@ -8,4 +8,4 @@
 
 #### The premise of the game is to click each emoji only once. After each click, the emojis will shuffle. If you pick the same one twice, the game is over and your score will reset!
 
-![]()
+![](https://github.com/kmayer48/clicky-game/blob/master/gifs/game-demo.gif)
