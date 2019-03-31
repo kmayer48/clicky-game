@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #343a40;
+}
+
+#header-container {
+  max-width: 100%;
+  background-color: rgba(124,124,124, 0.5);
+  background-image: url("../src/images/background.png");
+  background-blend-mode: color;
+  background-size: cover;
+  color: white;
+  padding-top: 120px;
+  padding-bottom: 40px;
+}
+
+#counters {
+  color: white;
+}
+
+#card-container {
+  margin-top: 50px;
+}
+
+.card {
+  width: 125px;
+}
+
+#logo {
+  font-family: 'Arimo', sans-serif;
+}
+
+.subtitle, #counters {
+  font-family: 'Arimo', sans-serif;
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px){
+  .card {
+    width: 100px;
+  }
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 768px) {
+  .card {
+    width: 120px;
+  }
+}

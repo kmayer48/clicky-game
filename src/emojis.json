@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Smiling face with open mouth and smiling eyes emoji",
+      "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/smiling-face-with-open-mouth-and-smiling-eyes_1f604.png"
+    },
+    {
+        "id": 2,
+        "name": "Face with pleading eyes emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-with-pleading-eyes_1f97a.png"
+    },
+    {
+        "id": 3,
+        "name": "Grinning face with star eyes emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/grinning-face-with-star-eyes_1f929.png"
+    },
+    {
+        "id": 4,
+        "name": "Smiling face with halo emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/smiling-face-with-halo_1f607.png"
+    },
+    {
+        "id": 5,
+        "name": "Face with tears of joy emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-with-tears-of-joy_1f602.png"
+    },
+    {
+        "id": 6,
+        "name": "Face throwing a kiss emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-throwing-a-kiss_1f618.png"
+    },
+    {
+        "id": 7,
+        "name": "Face with stuck out tongue and winking eye emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-with-stuck-out-tongue-and-winking-eye_1f61c.png"
+    },
+    {
+        "id": 8,
+        "name": "Sleeping face emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/sleeping-face_1f634.png"
+    },
+    {
+        "id": 9,
+        "name": "Smiling face with sunglasses emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/smiling-face-with-sunglasses_1f60e.png"
+    },
+    {
+        "id": 10,
+        "name": "Face with open mouth emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-with-open-mouth_1f62e.png"
+    },
+    {
+        "id": 11,
+        "name": "Face screaming in fear emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-screaming-in-fear_1f631.png"
+    },
+    {
+        "id": 12,
+        "name": "Face with cold sweat emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-with-cold-sweat_1f613.png"
+    },
+    {
+        "id": 13,
+        "name": "Upside down face emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/upside-down-face_1f643.png"
+    },
+    {
+        "id": 14,
+        "name": "Thinking face emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/thinking-face_1f914.png"
+    },
+    {
+        "id": 15,
+        "name": "Party face emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-with-party-horn-and-party-hat_1f973.png"
+    },
+    {
+        "id": 16,
+        "name": "Face with look of triumph emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/face-with-look-of-triumph_1f624.png"
+    },
+    {
+        "id": 17,
+        "name": "Shocked face with exploding head emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/shocked-face-with-exploding-head_1f92f.png"
+    },
+    {
+        "id": 18,
+        "name": "Nerd Face Emoji",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/nerd-face_1f913.png"
+    }
+]
